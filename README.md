@@ -1,6 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working on finding an Internship
+UCLA Computer Science Major
+Currently Working on AI-Integrated Web Applications
+Full-Stack Programmer
+
 
 
 ## 🌐 Socials:
