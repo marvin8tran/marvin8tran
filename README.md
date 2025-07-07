@@ -1,8 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
-UCLA Computer Science Major
-Currently Working on AI-Integrated Web Applications
-Full-Stack Programmer
+UCLA Computer Science Major  
+
+Currently Working on AI-Integrated Web Applications  
+
+Full-Stack Programmer  
+
 
 
 
