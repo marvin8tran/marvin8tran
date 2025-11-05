@@ -1,17 +1,18 @@
 
-Hello there 👋
-A Full-Stack Developer :)
-UCLA CS
+👋 Hello there!
 
-💻 Hands-on with: React, Node.js, Python, C++, AI frameworks
-🚀 Currently Diving Into: Scaling, Distributed systems, Cloud Architecture, and AI data management
-🛠 Built: Web apps, AI pipelines, and Cloud-backed projects
-🎵 Love these: Anime, action movies, french fries, and hip-hop dance
+Full-Stack Developer | CS @ UCLA 
 
-
+💻 Hands-on: React, Node.js, Python, C++, AI frameworks  
+🚀 Exploring: Scaling, Distributed Systems, Cloud Architecture, AI Data Management  
+🛠 Built: Web apps, AI pipelines, Cloud-backed projects  
+🌱 Love: Anime, Action Movies, French Fries, Hip-Hop Dance
 
 
-## 🌐 Socials:
+
+
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marvin8tran) 
 
 # 💻 Tech Stack:
