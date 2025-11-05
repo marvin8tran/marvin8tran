@@ -1,10 +1,12 @@
-## Hi there 👋
-# 💫 About Me:
-UCLA Computer Science Major  
 
-Currently Working on AI-Integrated Web Applications  
+Hello there 👋
+A Full-Stack Developer :)
+UCLA CS
 
-Full-Stack Programmer  
+💻 Hands-on with: React, Node.js, Python, C++, AI frameworks
+🚀 Currently Diving Into: Scaling, Distributed systems, Cloud Architecture, and AI data management
+🛠 Built: Web apps, AI pipelines, and Cloud-backed projects
+🎵 Love these: Anime, action movies, french fries, and hip-hop dance
 
 
 
